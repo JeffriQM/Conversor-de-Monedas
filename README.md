@@ -4,7 +4,7 @@ El presente proyecto es un conversor de monedas de diferentes paises y de temper
 <p align="left">
 <img src="https://img.shields.io/badge/STATUS-PRIMERA%20VERSION-green">
 </p>
-Demostración de funciones y aplicaciones: 
-![1](https://github.com/JeffriQM/Conversor-de-Monedas/assets/129114773/c0a9f2b9-49d5-4d78-bb39-f87d71845b5b)
+Demostración de funciones y aplicaciones: ;
+
 ![Conversor de Monedas](https://github.com/JeffriQM/Conversor-de-Monedas/assets/129114773/965e368d-70b0-4e52-bc92-8fb4af02c83c)
 
